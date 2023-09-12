@@ -10,6 +10,10 @@ Bem-vindo ao nosso repositório do "Guia de Deep Learning com PyTorch ". Este é
 
 - **Projetos Práticos com PyTorch:** Aplique seu conhecimento em projetos práticos passo a passo, construindo e treinando redes neurais com a biblioteca PyTorch. Esses projetos ajudarão a consolidar seu aprendizado.
 
+## Premissas importantes
+
+Partimos da premissa que o interessado no material desse diretório é proficiente em Python.
+
 ## Contribua e Compartilhe
 
 Valorizamos a contribuição da comunidade! Se você deseja adicionar resumos, compartilhar materiais de estudo, ou contribuir com projetos práticos, sinta-se à vontade para enviar um pull request. 😁
@@ -19,6 +23,9 @@ Valorizamos a contribuição da comunidade! Se você deseja adicionar resumos, c
 Se você tiver sugestões, correções ou apenas quiser compartilhar sua experiência de aprendizado, crie uma "issue" para nos informar. Valorizamos sua opinião.
 
 Esse projeto é uma forma singela de contribuir com a comunidade e facilitar o caminho daqueles que gostariam de aprender mais sobre Deep Learning. 
+
+
+
 
 
 
